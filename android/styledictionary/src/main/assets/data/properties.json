@@ -29626,6 +29626,27 @@
           "xxl"
         ]
       },
+      "xxxl": {
+        "value": "64.00dp",
+        "type": "dimension",
+        "filePath": "tokens/size/padding.json",
+        "isSource": true,
+        "original": {
+          "value": "4",
+          "type": "dimension"
+        },
+        "name": "size_padding_xxxl",
+        "attributes": {
+          "category": "size",
+          "type": "padding",
+          "item": "xxxl"
+        },
+        "path": [
+          "size",
+          "padding",
+          "xxxl"
+        ]
+      },
       "base": {
         "value": "16.00dp",
         "type": "dimension",

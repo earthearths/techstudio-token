@@ -9986,6 +9986,13 @@
         @"type": @"padding",
         @"item": @"xxl"
         },
+      @"xxxl": @{
+        @"value": @64.00f,
+        @"name": @"StyleDictionarySizePaddingXxxl",
+        @"category": @"size",
+        @"type": @"padding",
+        @"item": @"xxxl"
+        },
       @"base": @{
         @"value": @16.00f,
         @"name": @"StyleDictionarySizePaddingBase",

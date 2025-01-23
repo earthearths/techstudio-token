@@ -27,4 +27,5 @@ extern float const StyleDictionarySizePaddingMedium;
 extern float const StyleDictionarySizePaddingLarge;
 extern float const StyleDictionarySizePaddingXl;
 extern float const StyleDictionarySizePaddingXxl;
+extern float const StyleDictionarySizePaddingXxxl;
 extern float const StyleDictionarySizePaddingBase;

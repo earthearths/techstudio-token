@@ -28,4 +28,5 @@ float const StyleDictionarySizePaddingMedium = 16.00f;
 float const StyleDictionarySizePaddingLarge = 24.00f;
 float const StyleDictionarySizePaddingXl = 32.00f;
 float const StyleDictionarySizePaddingXxl = 48.00f;
+float const StyleDictionarySizePaddingXxxl = 64.00f;
 float const StyleDictionarySizePaddingBase = 16.00f;
