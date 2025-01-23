@@ -16,6 +16,7 @@ float const StyleDictionarySizeFontLarge = 20.00f;
 float const StyleDictionarySizeFontXl = 24.00f;
 float const StyleDictionarySizeFontXxl = 32.00f;
 float const StyleDictionarySizeFontXxxl = 48.00f;
+float const StyleDictionarySizeFontXxxxl = 64.00f;
 float const StyleDictionarySizeFontBase = 16.00f;
 float const StyleDictionarySizeIconSmall = 24.00f;
 float const StyleDictionarySizeIconBase = 32.00f;

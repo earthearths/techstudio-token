@@ -29370,6 +29370,27 @@
           "xxxl"
         ]
       },
+      "xxxxl": {
+        "value": "64.00sp",
+        "type": "fontSize",
+        "filePath": "tokens/size/font.json",
+        "isSource": true,
+        "original": {
+          "value": "4",
+          "type": "fontSize"
+        },
+        "name": "size_font_xxxxl",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "xxxxl"
+        },
+        "path": [
+          "size",
+          "font",
+          "xxxxl"
+        ]
+      },
       "base": {
         "value": "16.00sp",
         "type": "fontSize",

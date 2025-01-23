@@ -15,6 +15,7 @@ extern float const StyleDictionarySizeFontLarge;
 extern float const StyleDictionarySizeFontXl;
 extern float const StyleDictionarySizeFontXxl;
 extern float const StyleDictionarySizeFontXxxl;
+extern float const StyleDictionarySizeFontXxxxl;
 extern float const StyleDictionarySizeFontBase;
 extern float const StyleDictionarySizeIconSmall;
 extern float const StyleDictionarySizeIconBase;
