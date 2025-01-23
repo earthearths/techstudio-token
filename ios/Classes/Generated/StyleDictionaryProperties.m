@@ -9898,6 +9898,13 @@
         @"type": @"font",
         @"item": @"xxxl"
         },
+      @"xxxxl": @{
+        @"value": @64.00f,
+        @"name": @"StyleDictionarySizeFontXxxxl",
+        @"category": @"size",
+        @"type": @"font",
+        @"item": @"xxxxl"
+        },
       @"base": @{
         @"value": @16.00f,
         @"name": @"StyleDictionarySizeFontBase",
@@ -9985,6 +9992,13 @@
         @"category": @"size",
         @"type": @"padding",
         @"item": @"xxl"
+        },
+      @"xxxl": @{
+        @"value": @64.00f,
+        @"name": @"StyleDictionarySizePaddingXxxl",
+        @"category": @"size",
+        @"type": @"padding",
+        @"item": @"xxxl"
         },
       @"base": @{
         @"value": @16.00f,

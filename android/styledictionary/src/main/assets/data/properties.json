@@ -29370,6 +29370,27 @@
           "xxxl"
         ]
       },
+      "xxxxl": {
+        "value": "64.00sp",
+        "type": "fontSize",
+        "filePath": "tokens/size/font.json",
+        "isSource": true,
+        "original": {
+          "value": "4",
+          "type": "fontSize"
+        },
+        "name": "size_font_xxxxl",
+        "attributes": {
+          "category": "size",
+          "type": "font",
+          "item": "xxxxl"
+        },
+        "path": [
+          "size",
+          "font",
+          "xxxxl"
+        ]
+      },
       "base": {
         "value": "16.00sp",
         "type": "fontSize",
@@ -29624,6 +29645,27 @@
           "size",
           "padding",
           "xxl"
+        ]
+      },
+      "xxxl": {
+        "value": "64.00dp",
+        "type": "dimension",
+        "filePath": "tokens/size/padding.json",
+        "isSource": true,
+        "original": {
+          "value": "4",
+          "type": "dimension"
+        },
+        "name": "size_padding_xxxl",
+        "attributes": {
+          "category": "size",
+          "type": "padding",
+          "item": "xxxl"
+        },
+        "path": [
+          "size",
+          "padding",
+          "xxxl"
         ]
       },
       "base": {

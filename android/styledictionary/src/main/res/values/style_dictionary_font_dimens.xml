@@ -11,5 +11,6 @@
   <dimen name="size_font_xl">24.00sp</dimen>
   <dimen name="size_font_xxl">32.00sp</dimen>
   <dimen name="size_font_xxxl">48.00sp</dimen>
+  <dimen name="size_font_xxxxl">64.00sp</dimen>
   <dimen name="size_font_base">16.00sp</dimen>
 </resources>
